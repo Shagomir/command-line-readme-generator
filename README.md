@@ -27,7 +27,7 @@
 
   Please see the video guide provided for more information on using the application. 
 
-  [command line readme generator demo.webm](https://github.com/Shagomir/command-line-readme-generator/assets/command line readme generator demo.webm)
+  [command line readme generator demo.webm](https://github.com/Shagomir/command-line-readme-generator/assets/demo.webm)
   
   ## Contributing
   
