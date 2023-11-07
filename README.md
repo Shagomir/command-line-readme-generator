@@ -19,12 +19,15 @@
   ## Installation
   
   After downloading the repository, you will need to run `npm i` to install Inquirer. 
+
   
   ## Usage
   
   Run the application by using your command line tool to navigate to the folder the application is installed in. Then, use `node index.js` to start the prompts. Answer the questions as they appear. Once complete, the README will be saved in an outputs folder in the same directory as the application. 
 
   Please see the video guide provided for more information on using the application. 
+
+  [command line readme generator demo.webm](https://github.com/Shagomir/command-line-readme-generator/assets/demo.webm)
   
   ## Contributing
   
