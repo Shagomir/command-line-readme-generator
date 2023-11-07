@@ -27,7 +27,11 @@
 
   Please see the video guide provided for more information on using the application. 
 
-  [Video Demo for Command Line README Generator](https://github.com/Shagomir/command-line-readme-generator/assets/51217532/f80a9086-3100-4a84-9235-58ccba9f3a51)
+  [Video Demo for Command Line README Generator](https://github.com/Shagomir/command-line-readme-generator/assets/51217532/849524d4-1611-42b9-a337-0ab17b3e2af4)
+
+
+
+
 
   ## Contributing
   
